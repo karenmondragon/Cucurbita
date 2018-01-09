@@ -5,7 +5,7 @@
  <img src="https://garden.org/pics/2014-10-18/Linneaj/776a80.jpg" width=50%>
  </p>
  
- <p align="center">Fig 1. Cucurbita pepo subsp. pepo<i></i>
+ <p align="center">Fig 1. <i>Cucurbita pepo subsp. pepo</i>
  
 
 # **Descripción de la especie**
