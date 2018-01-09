@@ -1,9 +1,9 @@
 # Especie de interés 
  [Cucurbita pepo](http://www.conabio.gob.mx/conocimiento/bioseguridad/pdf/20870_sg7.pdf)
 
-![]("https://garden.org/pics/2014-10-18/Linneaj/776a80.jpg", Weith = 50)
+![]("https://garden.org/pics/2014-10-18/Linneaj/776a80.jpg", Width = 50)
 *Fig.1. Cucurbita pepo subsp. pepo*
-
+<img src="https://garden.org/pics/2014-10-18/Linneaj/776a80.jpg" width= "50" height="50" alt="" align="right# >
 # **Descripción de la especie**
 
 Plantas rastreras, compactas o subarbustivas, anuales, monoicas; pubescentes-escabrosas: hojas anchamente ovado-cordados a triangular-cordadas de 20 x 35cm, con o sin manchas blancas, a menudo profundamente 3-5 lobuladas; márgenes denticulados a serrado-denticulado. Zarcillos, simples y poco desarrollados en los tipos subarbustivos. Flores pentámeras, solitarias, axilares, las masculinas con pedicelos de 7-20 cm de largo, cáliz campanulado de 9-12 mm, sépalos lineares, de 12 x 2 m , corola tubular-campanulada, de 5-10cm de largo, dividida hasta un tercio o más de su longitud; 3 estambres. Flores femeninas con pedicelos robustos, sulcados, de 2-5 cm; ovario globoso, ovoide, cilíndrico, liso costado o verrucoso, multilocular; cáliz muy reducido: frutos de tamaño muy variable y formas diversas, fuertemente costillados, con frecuencia verrucosos, cáscara rígida, de coloración diversa, verde clara a oscuro, liso o diminutamente moteada en crema o verde contrastando con amarillo, anaranjado o bicolor; pulpa de color crema a amarillenta o anaranjada pálida, de suave y no amarga a fibrosa y amarga, semillas numerosas, elípticas, levemente comprimidas, de 3 -20 x 4-12 mm.
