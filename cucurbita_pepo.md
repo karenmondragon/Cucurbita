@@ -1,7 +1,7 @@
 # Especie de interés 
  [Cucurbita pepo](http://www.conabio.gob.mx/conocimiento/bioseguridad/pdf/20870_sg7.pdf)
 
-![]("https://garden.org/pics/2014-10-18/Linneaj/776a80.jpg", widt = 50)
+![](https://garden.org/pics/2014-10-18/Linneaj/776a80.jpg)
 *Fig.1. Cucurbita pepo subsp. pepo*
 
 **Descripción de la especie**
